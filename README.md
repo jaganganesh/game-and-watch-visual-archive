@@ -1,5 +1,10 @@
 # Tricotronic
 
+![Stars](https://img.shields.io/github/stars/jaganganesh/tricotronic?style=flat)
+![Forks](https://img.shields.io/github/forks/jaganganesh/tricotronic?style=flat)
+![License](https://img.shields.io/github/license/jaganganesh/tricotronic)
+![Last Commit](https://img.shields.io/github/last-commit/jaganganesh/tricotronic)
+
 A visual archive of every **Nintendo Game & Watch** handheld electronic game released by **Nintendo** between **1980 and 1991**.
 
 This repository documents the **complete Game & Watch catalog**, including classic LCD handheld games such as:
