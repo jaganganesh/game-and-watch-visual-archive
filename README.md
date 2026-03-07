@@ -15,8 +15,6 @@ This repository documents the **complete Game & Watch catalog**, including class
 
 The goal of this project is to create a **single reference library for the Game & Watch series**.
 
----
-
 # Table of Contents
 
 - [About Game & Watch](#about-game--watch)
@@ -26,8 +24,6 @@ The goal of this project is to create a **single reference library for the Game 
 - [Why This Repository Exists](#why-this-repository-exists)
 - [Contributing](#contributing)
 - [License](#license)
-
----
 
 # About Game & Watch
 
@@ -45,8 +41,6 @@ Many design ideas from Game & Watch later influenced Nintendo hardware such as:
 
 - Nintendo Game Boy
 - Nintendo DS
-
----
 
 # Game & Watch Collection
 
@@ -67,8 +61,6 @@ Below is a visual reference of selected Game & Watch titles.
 
 This project aims to eventually include **every Game & Watch model released by Nintendo**.
 
----
-
 # Game & Watch ROMs
 
 Game & Watch ROM files are available for archival and emulation purposes.
@@ -82,8 +74,6 @@ These ROMs can be used with emulators that support **Game & Watch systems**.
 > This repository does **not host ROM files directly**.  
 > It only provides documentation and visual references for the Game & Watch catalog.
 
----
-
 # Game & Watch Hardware Series
 
 Nintendo released several hardware designs during the Game & Watch era.
@@ -91,8 +81,6 @@ Nintendo released several hardware designs during the Game & Watch era.
 ## Gold Series
 
 An early Game & Watch hardware design with improved display brightness compared to earlier devices.
-
----
 
 ## Wide Screen Series
 
@@ -104,8 +92,6 @@ Popular titles include:
 - Chef
 - Helmet
 
----
-
 ## Multi Screen Series
 
 A two-screen design that later inspired the **Nintendo DS** handheld console.
@@ -115,19 +101,13 @@ Popular titles include:
 - Donkey Kong
 - Oil Panic
 
----
-
 ## Tabletop Series
 
 Larger tabletop versions of Game & Watch games featuring color displays and arcade-style cabinets.
 
----
-
 ## Panorama Series
 
 Games that used mirrors and angled screens to create a pseudo-3D visual effect.
-
----
 
 # Why This Repository Exists
 
@@ -137,8 +117,6 @@ This project was created to:
 - Document the **Game & Watch product line**
 - Provide a **visual archive of classic handheld games**
 - Help retro gaming communities and collectors
-
----
 
 # Contributing
 
@@ -157,8 +135,6 @@ Steps:
 2. Create a new branch
 3. Commit your changes
 4. Open a pull request
-
----
 
 # License
 
